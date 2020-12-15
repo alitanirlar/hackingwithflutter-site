@@ -5,7 +5,7 @@ params:
   layout_style: grid
   palette: green
   header:
-    title: Ampersand
+    title: Hacking with Flutter
     has_nav: true
     nav_links:
       - label: Home
