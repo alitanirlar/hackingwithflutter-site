@@ -6,9 +6,6 @@ intro_content: >-
   gittikçe popüler olmaya başlayan Flutter öğrenmeye başladım. Buradan
   öğrendiklerimi paylaşacağım. İyi okumalar.
 intro_actions:
-  - label: Learn More
-    url: /about
-    style: primary
   - label: Contact
     url: /contact
     style: secondary
