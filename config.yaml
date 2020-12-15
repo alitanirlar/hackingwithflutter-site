@@ -11,7 +11,7 @@ params:
       - label: Ana Sayfa
         url: /
         style: link
-      - label: About
+      - label: Hakkında
         url: /about
         style: link
       - label: Style Guide
