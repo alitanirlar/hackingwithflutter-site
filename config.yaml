@@ -8,7 +8,7 @@ params:
     title: Hacking with Flutter
     has_nav: true
     nav_links:
-      - label: Home
+      - label: Ana Sayfa
         url: /
         style: link
       - label: About
